@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1741452280" />
+    <testcase name="complementer_modeled_test" classname="Subtractor_test" file="C:\Users\mehme\Desktop\ders\3.2\digilab_314\SystemBuilder\SystemBuilder\CodeGenerated\DE1_SOC\EE314exp0\EXP0_Student\CombinedTest\Tests\Subtractor_test.py" lineno="74" time="3.7890233993530273" sim_time_ns="51000" ratio_time="13459.932712135853" />
+  </testsuite>
+</testsuites>

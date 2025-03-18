@@ -1,0 +1,10 @@
+module OurAdder ( // This is a template. 
+// You can modify the input-output declerations(width etc.) without changing the names.
+    input a, // input A
+    input b, // input B
+    output sum // sum output
+);
+
+// Fill here
+
+endmodule

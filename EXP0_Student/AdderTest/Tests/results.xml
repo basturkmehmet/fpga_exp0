@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1741451288" />
+    <testcase name="adder_modeled_test" classname="Adder_test" file="C:\Users\mehme\Desktop\ders\3.2\digilab_314\SystemBuilder\SystemBuilder\CodeGenerated\DE1_SOC\EE314exp0\EXP0_Student\AdderTest\Tests\Adder_test.py" lineno="72" time="2.8030803203582764" sim_time_ns="51000" ratio_time="18194.269935683264" />
+  </testsuite>
+</testsuites>
